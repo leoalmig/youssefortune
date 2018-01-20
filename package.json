@@ -1,0 +1,20 @@
+{
+  "name": "youssefortune",
+  "version": "1.0.0",
+  "description": "No bad luck today, only bad jokes",
+  "main": "index.js",
+  "bin": { "youssefortune": "./index.js" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoalmig/youssefortune.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoalmig/youssefortune/issues"
+  },
+  "homepage": "https://github.com/leoalmig/youssefortune#readme"
+}
