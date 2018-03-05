@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 const fortunes = [
-  'Embedded!',
   'Sabia que o iPhone tá barato nas lojas Americanas? Mas só nas americanas, nas brasileiras continua caro',
   'O Lair cresceu muito profissionalmente',
   'Em uma cidade com muitas motos Yamaha e só duas Honda, qual o nome do filme? Pocahondas!'
